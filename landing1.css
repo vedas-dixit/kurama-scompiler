@@ -1,0 +1,30 @@
+*{
+    background-color: cadetblue;
+    
+}
+
+
+.kmimg{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    }
+.imgqwe{
+    width: 580px;
+}
+.quote{
+    font-family: serif;
+    font-size: 30px;
+    margin-top: 200px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.nimg{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+}
